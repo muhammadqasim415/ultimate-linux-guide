@@ -38,7 +38,7 @@ top
 ```
 Press `q` to quit.
 
-### Using `htop`
+### Using `htop`  //please must install htop using - apt install htop
 A user-friendly alternative:
 ```bash
 htop
@@ -56,6 +56,12 @@ vmstat 1 5  # Update every 1 sec, show 5 updates
 free -m
 ```
 Shows free and used memory in megabytes.
+
+```bash
+free -h 
+```
+
+Shows free and used memory in megabyte and units with human readable formate.
 
 ## Disk Monitoring
 ### Using `df`
