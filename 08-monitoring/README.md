@@ -77,7 +77,7 @@ du -sh /var/log
 ### Using `iostat`
 Check disk and CPU usage:
 ```bash
-iostat
+iostat    //must install iostat 
 ```
 
 ## Network Monitoring
