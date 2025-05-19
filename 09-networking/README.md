@@ -10,8 +10,8 @@
 8. **`wget https://example.com/file.zip`** – Downloads a file from the internet.
 
       Extra linux commands
-- nslookup google.com
-- traceroute  youtube.com       // This command use to route from your side to youtube server
+- nslookup google.com            //Aap ye jaan rahay ho ke google.com kis IP address se linked hai — yaani ye command DNS resolution dikha rahi hai.
+- traceroute  youtube.com 123      // This command use to route from your side to youtube server
 - 
 
        
