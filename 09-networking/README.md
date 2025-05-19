@@ -12,6 +12,8 @@
       Extra linux commands
 - nslookup google.com            //Aap ye jaan rahay ho ke google.com kis IP address se linked hai — yaani ye command DNS resolution dikha rahi hai.
 - traceroute  youtube.com 123      // This command use to route from your side to youtube server
+- ufw       //use to allow deny the port and active own status reset and enable itself.
+- 
 - 
 
        
