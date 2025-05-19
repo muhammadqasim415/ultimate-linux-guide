@@ -10,10 +10,8 @@
 8. **`wget https://example.com/file.zip`** – Downloads a file from the internet.
 
       Extra linux commands
-- nslookup google.com            //Aap ye jaan rahay ho ke google.com kis IP address se linked hai — yaani ye command DNS resolution dikha rahi hai.
-- traceroute  youtube.com 123      // This command use to route from your side to youtube server
-- ufw       //use to allow deny the port and active own status reset and enable itself.
-- 
-- 
+9. nslookup google.com            //Aap ye jaan rahay ho ke google.com kis IP address se linked hai — yaani ye command DNS resolution dikha rahi hai.
+10. traceroute  youtube.com 123      // This command use to route from your side to youtube server.
+11. - ufw       //use to allow deny the port and active own status reset and enable itself.
 
        
