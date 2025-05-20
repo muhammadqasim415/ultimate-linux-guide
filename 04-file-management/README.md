@@ -24,4 +24,13 @@
 19. **`echo 'Hello' > file.txt`** – Writes text to a file, overwriting existing content.
 20. **`echo 'Hello' >> file.txt`** – Appends text to a file without overwriting.
 
+ ----------Extra Commands---------
+ how to delete all files in dir1
+- rm dir1/*
+- rm -rf dir1/*    // This command delete everything inside the dir1
+how to combine all files and directories
+tar cvf files.tar file1 file2 file3 dir1     //This command combine all files and dir1 in files.tar file
+how to uncombine all files and directories
+tar xvf files.tar    // this command used to uncombine file1 file2 file3 dir1
+
 
